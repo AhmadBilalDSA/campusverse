@@ -1,5 +1,6 @@
 <div align="center">
 
+
 ![CampusVerse](assets/hero.jpg)
 
 ![Records](https://img.shields.io/badge/records-293_522-1a2744)
