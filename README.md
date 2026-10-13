@@ -1,4 +1,9 @@
-# CampusVerse
+# CampusVerse: Offline Academic Library for Pakistani Universities
+
+![Records](https://img.shields.io/badge/records-293_522-1a2744)
+![Full Text](https://img.shields.io/badge/full_text-43_522-2f855a)
+![Passages](https://img.shields.io/badge/passages-1_094_881-744210)
+![Internet Required](https://img.shields.io/badge/internet-not_required-c53030)
 
 **Offline academic discovery engine for Pakistani universities.**
 
@@ -35,6 +40,8 @@ Three components, one server:
 3. **Library storage**: 43,522 original book files on local disk, streamed to readers on demand.
 
 Deployment is one machine on the campus LAN. A firewall rule opens port 3000 to the local network. Students connect over WiFi using a QR code or URL. Nothing leaves the building.
+
+![CampusVerse Architecture](assets/architecture.svg)
 
 ## 4. The collection
 
