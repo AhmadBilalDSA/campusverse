@@ -1,1 +1,73 @@
-IyBDYW1wdXNWZXJzZQoKKipPZmZsaW5lIGFjYWRlbWljIGRpc2NvdmVyeSBlbmdpbmUgZm9yIFBha2lzdGFuaSB1bml2ZXJzaXRpZXMuKioKCkNhbXB1c1ZlcnNlIGlzIGEgc2VsZi1ob3N0ZWQgc2VhcmNoIHBsYXRmb3JtIHRoYXQgcHV0cyBhIGZ1bGwgYWNhZGVtaWMgbGlicmFyeSBvbiBhIGNhbXB1cyBzZXJ2ZXIuIFN0dWRlbnRzIGFuZCBmYWN1bHR5IHNlYXJjaCwgcmVhZCwgYW5kIGNpdGUgYm9va3MgYW5kIHN0YXR1dGVzIG92ZXIgdGhlIGNhbXB1cyBuZXR3b3JrLiBObyBpbnRlcm5ldCBjb25uZWN0aW9uIHJlcXVpcmVkLgoKLS0tCgojIyAxLiBXaGF0IGlzIENhbXB1c1ZlcnNlPwoKQ2FtcHVzVmVyc2UgaXMgYW4gb2ZmbGluZS1maXJzdCBkaWdpdGFsIGxpYnJhcnkgc3lzdGVtIGJ1aWx0IGZvciB1bml2ZXJzaXRpZXMgaW4gUGFraXN0YW4uIEl0IHJ1bnMgZW50aXJlbHkgb24gYSBsb2NhbCBjYW1wdXMgc2VydmVyOiBhIE5leHQuanMgd2ViIGFwcGxpY2F0aW9uIGJhY2tlZCBieSBhIE1laWxpc2VhcmNoIHNlYXJjaCBpbmRleCwgc2VydmluZyBjb250ZW50IG92ZXIgdGhlIGNhbXB1cyBMQU4uCgpXaGF0IGl0IGRvZXM6CgotIEZ1bGwtdGV4dCBzZWFyY2ggYWNyb3NzICoqMjkzLDUyMiBjYXRhbG9nIHJlY29yZHMqKgotIEluc3RhbnQgcmVhZGluZyBvZiAqKjQzLDUyMiBmdWxsLXRleHQgZG9jdW1lbnRzKioKLSBDaXRhdGlvbiBleHBvcnQgaW4gQVBBLCBNTEEsIGFuZCBDaGljYWdvIGZvcm1hdHMKLSBQZXJzb25hbCBzaGVsdmVzLCByZWFkaW5nIGhpc3RvcnksIGFuZCBib29rbWFya3MKLSBCaWxpbmd1YWwgaW50ZXJmYWNlOiBFbmdsaXNoIGFuZCBVcmR1IChyaWdodC10by1sZWZ0KQoKV2hhdCBpdCBkb2VzIG5vdCBuZWVkOiBpbnRlcm5ldCBhY2Nlc3MsIGNsb3VkIGFjY291bnRzLCBvciBwZXItc2VhdCBsaWNlbnNlcy4KCiMjIDIuIFRoZSBwcm9ibGVtCgpDYW1wdXMgaW50ZXJuZXQgaW4gUGFraXN0YW4gaXMgdW5yZWxpYWJsZS4gRXZlbmluZyBjb25nZXN0aW9uLCBsb2FkIHNoZWRkaW5nLCBhbmQgYmFuZHdpZHRoIGNhcHMgY3V0IHN0dWRlbnRzIG9mZiBmcm9tIG9ubGluZSBsaWJyYXJpZXMgZXhhY3RseSB3aGVuIHRoZXkgbmVlZCB0aGVtIG1vc3QuIENvbW1lcmNpYWwgYWNhZGVtaWMgZGF0YWJhc2VzIGNoYXJnZSBwZXItc2VhdCBmZWVzIGluIGRvbGxhcnMsIHByaWNpbmcgb3V0IG1vc3QgcHVibGljIHVuaXZlcnNpdGllcy4KCkNhbXB1c1ZlcnNlIHJlbW92ZXMgdGhlIGludGVybmV0IGZyb20gdGhlIGNyaXRpY2FsIHBhdGguIFRoZSBlbnRpcmUgY29sbGVjdGlvbiBsaXZlcyBvbiBhIHNlcnZlciBpbnNpZGUgdGhlIGNhbXB1cyBidWlsZGluZy4gSWYgdGhlIGNhbXB1cyBuZXR3b3JrIGlzIHVwLCB0aGUgbGlicmFyeSBpcyB1cC4KCiMjIDMuIEhvdyBpdCB3b3JrcwoKVGhyZWUgY29tcG9uZW50cywgb25lIHNlcnZlcjoKCjEuICoqTWVpbGlzZWFyY2gqKiAoMTI3LjAuMC4xOjc3MDApOiB0aGUgc2VhcmNoIGVuZ2luZS4gSG9sZHMgMjkzLDUyMiBjYXRhbG9nIHJlY29yZHMgYW5kIDEsMDk0LDg4MSBmdWxsLXRleHQgcGFzc2FnZXMuIFR5cG8tdG9sZXJhbnQgc2VhcmNoIHdpdGggbWlsbGlzZWNvbmQgcmVzcG9uc2UgdGltZXMuCjIuICoqTmV4dC5qcyB3ZWIgYXBwKiogKHBvcnQgMzAwMCk6IHRoZSBpbnRlcmZhY2UuIFNlYXJjaCwgcmVhZGVyLCBzaGVsdmVzLCBjaXRhdGlvbnMsIGFkbWluIGRhc2hib2FyZC4gSW5zdGFsbGFibGUgYXMgYSBQV0EgZm9yIG9mZmxpbmUgdXNlLgozLiAqKkxpYnJhcnkgc3RvcmFnZSoqOiA0Myw1MjIgb3JpZ2luYWwgYm9vayBmaWxlcyBvbiBsb2NhbCBkaXNrLCBzdHJlYW1lZCB0byByZWFkZXJzIG9uIGRlbWFuZC4KCkRlcGxveW1lbnQgaXMgb25lIG1hY2hpbmUgb24gdGhlIGNhbXB1cyBMQU4uIEEgZmlyZXdhbGwgcnVsZSBvcGVucyBwb3J0IDMwMDAgdG8gdGhlIGxvY2FsIG5ldHdvcmsuIFN0dWRlbnRzIGNvbm5lY3Qgb3ZlciBXaUZpIHVzaW5nIGEgUVIgY29kZSBvciBVUkwuIE5vdGhpbmcgbGVhdmVzIHRoZSBidWlsZGluZy4KCiMjIDQuIFRoZSBjb2xsZWN0aW9uCgpSZWFsIG51bWJlcnMsIHZlcmlmaWVkIGFnYWluc3QgdGhlIGxpdmUgc2VhcmNoIGluZGV4OgoKfCBTb3VyY2UgfCBEb2N1bWVudHMgfCBBY2Nlc3MgfAp8LS0tfC0tLXwtLS18CnwgUHJvamVjdCBHdXRlbmJlcmcgfCA0Myw1MTQgYm9va3MgfCBGdWxsIHRleHQgfAp8IE9wZW5TdGF4IHwgNSB0ZXh0Ym9va3MgfCBGdWxsIHRleHQgfAp8IFBha2lzdGFuaSBzdGF0dXRlcyB8IDMgKENvbXBhbmllcyBBY3QgMjAxNywgUGFydG5lcnNoaXAgQWN0IDE5MzIsIENvbnRyYWN0IEFjdCAxODcyKSB8IEZ1bGwgdGV4dCB8CnwgQ2F0YWxvZyByZWNvcmRzIHwgMjUwLDAwMCB8IENpdGF0aW9uIGluZGV4IHwKCioqVG90YWw6IDI5Myw1MjIgcmVjb3Jkcy4gMSwwOTQsODgxIGZ1bGwtdGV4dCBwYXNzYWdlcy4gNDMsNTIyIHJlYWRhYmxlIGRvY3VtZW50cy4qKgoKQ29weXJpZ2h0IGNvbXBsaWFuY2UgZm9sbG93cyBQYWtpc3RhbiBDb3B5cmlnaHQgT3JkaW5hbmNlIDE5NjIsIFNlY3Rpb24gMTg6IGxpdGVyYXJ5IHdvcmtzIGVudGVyIHRoZSBwdWJsaWMgZG9tYWluIDUwIHllYXJzIGFmdGVyIHRoZSBhdXRob3IncyBkZWF0aC4gQ2FtcHVzVmVyc2Ugc2VydmVzIGZ1bGwgdGV4dCBvbmx5IGZvciB3b3JrcyB2ZXJpZmllZCBwdWJsaWMgZG9tYWluIGluIFBha2lzdGFuIChhdXRob3IgZGllZCBpbiAxOTc1IG9yIGVhcmxpZXIpIG9yIGV4cGxpY2l0bHkgb3Blbi1saWNlbnNlZCAoT3BlblN0YXggdGV4dGJvb2tzLCBzdGF0dXRlcykuIEFsbCBvdGhlciByZWNvcmRzIGFyZSBjaXRhdGlvbi1vbmx5IGluZGV4IGVudHJpZXMuCgojIyA1LiBGb3IgdW5pdmVyc2l0aWVzCgoqKlBpbG90IHByb2dyYW06KiogZnJlZSAzMC1kYXkgb24tY2FtcHVzIHBpbG90LiBXZSBpbnN0YWxsIG9uIHlvdXIgc2VydmVyLCBsb2FkIHRoZSBjb2xsZWN0aW9uLCBhbmQgdHJhaW4geW91ciBsaWJyYXJ5IHN0YWZmLgoKKipBZnRlciB0aGUgcGlsb3Q6KiogUEtSIDM1MCwwMDAgcGVyIGNhbXB1cyBwZXIgeWVhci4gT25lIGZsYXQgZmVlLiBVbmxpbWl0ZWQgc3R1ZGVudHMsIHVubGltaXRlZCBmYWN1bHR5LCB1bmxpbWl0ZWQgc2VhcmNoZXMuCgpDb250YWN0OiAqKkFobWFkIEJpbGFsKiosIFtnaXRodWIuY29tL0FobWFkQmlsYWxEU0FdKGh0dHBzOi8vZ2l0aHViLmNvbS9BaG1hZEJpbGFsRFNBKSwga2llcm5pbmphQGdtYWlsLmNvbQoKIyMgNi4gVGVjaG5pY2FsIG92ZXJ2aWV3CgotICoqRnJvbnRlbmQ6KiogTmV4dC5qcyAxNSwgUmVhY3QsIFR5cGVTY3JpcHQuIEJpbGluZ3VhbCBFbmdsaXNoL1VyZHUgd2l0aCBSVEwgbGF5b3V0LiBaZXJvIENETiBkZXBlbmRlbmNpZXM7IGV2ZXJ5IGFzc2V0IGlzIHNlbGYtaG9zdGVkLgotICoqU2VhcmNoOioqIE1laWxpc2VhcmNoLiBGYWNldGVkIHNlYXJjaCwgdHlwbyB0b2xlcmFuY2UsIGZpbHRlcmVkIHF1ZXJpZXMgYWNyb3NzIGNhdGFsb2cgYW5kIGZ1bGwtdGV4dCBpbmRleGVzLgotICoqUmVhZGVyOioqIFBhZ2luYXRlZCB0ZXh0IHJlYWRlciB3aXRoIHRhYmxlIG9mIGNvbnRlbnRzLCBQREYgc3VwcG9ydCBmb3IgdGV4dGJvb2tzLCBkb3dubG9hZCBvZiBvcmlnaW5hbCBzb3VyY2UgZmlsZXMuCi0gKipBdXRoOioqIFNlc3Npb24tYmFzZWQgbG9naW4gd2l0aCByYXRlIGxpbWl0aW5nIG9uIGFsbCBBUEkgcm91dGVzLgotICoqVGVsZW1ldHJ5OioqIFByaXZhY3ktcHJlc2VydmluZyBwaWxvdCBhbmFseXRpY3MuIEhvdXItYnVja2V0ZWQgY291bnRzIG9ubHkuIE5vIHJhdyBJUCBhZGRyZXNzZXMsIG5vIHVzZXIgSURzLgotICoqU3RhY2s6KiogVHlwZVNjcmlwdCwgUHl0aG9uIChpbmdlc3Rpb24pLCBQb3dlclNoZWxsIChvcGVyYXRpb25zKSwgU1FMaXRlLgoKLS0tCgoqQnVpbHQgYnkgQWhtYWQgQmlsYWwuIENhbXB1c1ZlcnNlIGlzIGEgcHJvZHVjdCBvZiBpbmRlcGVuZGVudCByZXNlYXJjaCBhbmQgZGV2ZWxvcG1lbnQgZm9yIFBha2lzdGFuaSBoaWdoZXIgZWR1Y2F0aW9uLioK
+# CampusVerse
+
+**Offline academic discovery engine for Pakistani universities.**
+
+CampusVerse is a self-hosted search platform that puts a full academic library on a campus server. Students and faculty search, read, and cite books and statutes over the campus network. No internet connection required.
+
+---
+
+## 1. What is CampusVerse?
+
+CampusVerse is an offline-first digital library system built for universities in Pakistan. It runs entirely on a local campus server: a Next.js web application backed by a Meilisearch search index, serving content over the campus LAN.
+
+What it does:
+
+- Full-text search across **293,522 catalog records**
+- Instant reading of **43,522 full-text documents**
+- Citation export in APA, MLA, and Chicago formats
+- Personal shelves, reading history, and bookmarks
+- Bilingual interface: English and Urdu (right-to-left)
+
+What it does not need: internet access, cloud accounts, or per-seat licenses.
+
+## 2. The problem
+
+Campus internet in Pakistan is unreliable. Evening congestion, load shedding, and bandwidth caps cut students off from online libraries exactly when they need them most. Commercial academic databases charge per-seat fees in dollars, pricing out most public universities.
+
+CampusVerse removes the internet from the critical path. The entire collection lives on a server inside the campus building. If the campus network is up, the library is up.
+
+## 3. How it works
+
+Three components, one server:
+
+1. **Meilisearch** (127.0.0.1:7700): the search engine. Holds 293,522 catalog records and 1,094,881 full-text passages. Typo-tolerant search with millisecond response times.
+2. **Next.js web app** (port 3000): the interface. Search, reader, shelves, citations, admin dashboard. Installable as a PWA for offline use.
+3. **Library storage**: 43,522 original book files on local disk, streamed to readers on demand.
+
+Deployment is one machine on the campus LAN. A firewall rule opens port 3000 to the local network. Students connect over WiFi using a QR code or URL. Nothing leaves the building.
+
+## 4. The collection
+
+Real numbers, verified against the live search index:
+
+| Source | Documents | Access |
+|---|---|---|
+| Project Gutenberg | 43,514 books | Full text |
+| OpenStax | 5 textbooks | Full text |
+| Pakistani statutes | 3 (Companies Act 2017, Partnership Act 1932, Contract Act 1872) | Full text |
+| Catalog records | 250,000 | Citation index |
+
+**Total: 293,522 records. 1,094,881 full-text passages. 43,522 readable documents.**
+
+Copyright compliance follows Pakistan Copyright Ordinance 1962, Section 18: literary works enter the public domain 50 years after the author's death. CampusVerse serves full text only for works verified public domain in Pakistan (author died in 1975 or earlier) or explicitly open-licensed (OpenStax textbooks, statutes). All other records are citation-only index entries.
+
+## 5. For universities
+
+**Pilot program:** free 30-day on-campus pilot. We install on your server, load the collection, and train your library staff.
+
+**After the pilot:** PKR 350,000 per campus per year. One flat fee. Unlimited students, unlimited faculty, unlimited searches.
+
+Contact: **Ahmad Bilal**, [github.com/AhmadBilalDSA](https://github.com/AhmadBilalDSA), kierninja@gmail.com
+
+## 6. Technical overview
+
+- **Frontend:** Next.js 15, React, TypeScript. Bilingual English/Urdu with RTL layout. Zero CDN dependencies; every asset is self-hosted.
+- **Search:** Meilisearch. Faceted search, typo tolerance, filtered queries across catalog and full-text indexes.
+- **Reader:** Paginated text reader with table of contents, PDF support for textbooks, download of original source files.
+- **Auth:** Session-based login with rate limiting on all API routes.
+- **Telemetry:** Privacy-preserving pilot analytics. Hour-bucketed counts only. No raw IP addresses, no user IDs.
+- **Stack:** TypeScript, Python (ingestion), PowerShell (operations), SQLite.
+
+---
+
+*Built by Ahmad Bilal. CampusVerse is a product of independent research and development for Pakistani higher education.*
